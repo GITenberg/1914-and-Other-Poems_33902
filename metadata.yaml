@@ -1,0 +1,30 @@
+_repo: 1914-and-Other-Poems_33902
+_version: 0.1.0
+alternative_title: Nineteen fourteen, and other poems
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooke, Rupert
+    birthdate: 1887
+    deathdate: 1915
+    gutenberg_agent_id: '148'
+    url: http://www.gutenberg.org/2009/agents/148
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Brooke
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33902'
+  lccn: '15014823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+title: 1914, and Other Poems
+url: http://www.gutenberg.org/ebooks/33902
